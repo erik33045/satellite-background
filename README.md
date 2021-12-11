@@ -1,6 +1,8 @@
 # satellite-background
 This powershell script Gets the latest image SE USA from the GOES satellite and sets it as your background. Only tested for Windows 11.
 
+![image](images/image-1.png)
+
 ## How to set it up
 1. Place the desktop-changer.ps1 somewhere on your local PC.
 2. Open up the Task Scheduler (Search for Task Scheduler in the start menu) and create a new task.
