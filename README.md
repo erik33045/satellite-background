@@ -28,3 +28,4 @@ This powershell script Gets the latest image SE USA from the GOES satellite and 
 * Enable multiple regions or map types with arguments
 * Make the call more performant
 * Make the Background image setting configurable
+* Automate the creation of a task if one doesn't exist
